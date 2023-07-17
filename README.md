@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Front End Mentor Solution Link](https://www.frontendmentor.io/solutions/tailwind-equalizer-landpage-VTMNw9LfGv)
-- Live Site URL: [Netlify Live Website](https://635197af351ffb0301c6db26--ubiquitous-khapse-38c053.netlify.app/)
+- Solution URL: [Front End Mentor Solution Link](https://www.frontendmentor.io/solutions/advice-generator-UCPvPaLuJk)
+- Live Site URL: [Netlify Live Website](https://idyllic-bunny-a9755b.netlify.app/)
 
 ## My process
 - Started with the front end, then added api calls.
